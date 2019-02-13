@@ -29,7 +29,7 @@ numpy==1.12.1
 path.py==8.1.2
 pexpect==4.0.1
 pickleshare==0.5
-Pillow==3.0.0
+Pillow==5.4.1
 pkg-resources==0.0.0
 ptyprocess==0.5
 Pygments==2.0.2
@@ -43,5 +43,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
 terminado==0.5
+torch==1.0.1.post2
+torchvision==0.2.1
 tornado==4.3
 traitlets==4.0.0
